@@ -1,0 +1,352 @@
+"","Community","chiefOfficial","policyBoard","legislativeBody","city","cityCharter","policySize","legislativeSize","homeRule"
+"1","Abington ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1974"
+"2","Acton ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1969"
+"3","Acushnet ","TA","Selectmen ","OTM",FALSE,NA,"3",NA,"1971"
+"4","Adams ","TA","Selectmen ","RTM",FALSE,NA,"5",NA,"1983"
+"5","AGAWAM  ","Mayor","","Council ",TRUE,"(A)",NA,"11","1972"
+"6","Alford","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"7","AMESBURY  ","Mayor","","Council ",TRUE,"(F)",NA,"9","1996"
+"8","AMHERST","TM","","Council ",TRUE,NA,NA,"13",NA
+"9","Andover","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"10","Aquinnah","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"11","Arlington","TM","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"12","Ashburnham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"13","Ashby","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"14","Ashfield","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"15","Ashland","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"16","Athol","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"17","ATTLEBORO ","Mayor","","Council ",TRUE,NA,NA,"11","1973"
+"18","Auburn ","TM","Selectmen ","RTM",FALSE,NA,"5",NA,"1969"
+"19","Avon","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"20","Ayer","TM","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"21","BARNSTABLE ","TM","","Council ",TRUE,NA,NA,"13","1989"
+"22","Barre","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"23","Becket","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"24","Bedford ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1974"
+"25","Belchertown","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"26","Bellingham","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"27","Belmont ","TA","Select Board ","RTM",FALSE,NA,"3",NA,"1926"
+"28","Berkley","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"29","Berlin","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"30","Bernardston","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"31","BEVERLY ","Mayor","","Council ",TRUE,"(A)",NA,"9",NA
+"32","Billerica ","TM","Selectmen ","RTM",FALSE,NA,"5",NA,"1979"
+"33","Blackstone ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1974"
+"34","Blandford","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"35","Bolton","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"36","BOSTON ","Mayor","","Council ",TRUE,"(A)",NA,"13",NA
+"37","Bourne","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"38","Boxborough","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"39","Boxford","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"40","Boylston","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"41","BRAINTREE","Mayor","","Council ",TRUE,NA,NA,"9",NA
+"42","Brewster","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"43","BRIDGEWATER","TM","","Council ",TRUE,NA,NA,"9",NA
+"44","Brimfield","","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"45","BROCKTON","Mayor","","Council ",TRUE,NA,NA,"11",NA
+"46","Brookfield","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"47","Brookline","TA","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"48","Buckland","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"49","Burlington","TA","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"50","CAMBRIDGE  ","Mayor-Manager","","Council ",TRUE,"(E)",NA,"9","1941"
+"51","Canton","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"52","Carlisle","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"53","Carver","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"54","Charlemont","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"55","Charlton","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"56","Chatham","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"57","Chelmsford ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1989"
+"58","CHELSEA","Manager","","Council ",TRUE,NA,NA,"11",NA
+"59","Cheshire","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"60","Chester","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"61","Chesterfield","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"62","CHICOPEE","Mayor","","Council ",TRUE,NA,NA,"13",NA
+"63","Chilmark","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"64","Clarksburg","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"65","Clinton","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"66","Cohasset","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"67","Colrain","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"68","Concord ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1957"
+"69","Conway","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"70","Cummington","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"71","Dalton","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"72","Danvers","TM","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"73","Dartmouth","TA","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"74","Dedham ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1974"
+"75","Deerfield","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"76","Dennis","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"77","Dighton","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"78","Douglas","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"79","Dover","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"80","Dracut ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1985"
+"81","Dudley","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"82","Dunstable","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"83","Duxbury","TM","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"84","East Bridgewater","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"85","East Brookfield","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"86","Eastham","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"87","EASTHAMPTON ","Mayor","","Council ",TRUE,NA,NA,"9","1996"
+"88","EAST LONGMEADOW","TM","","Council ",TRUE,NA,NA,"7",NA
+"89","Easton ","TA","Select Board ","OTM",FALSE,NA,"5",NA,"1972"
+"90","Edgartown","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"91","Egremont","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"92","Erving","AC","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"93","Essex","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"94","EVERETT","Mayor","","Council ",TRUE,NA,NA,"11",NA
+"95","Fairhaven","TA","Selectmen ","RTM",FALSE,NA,"3",NA,NA
+"96","FALL RIVER ","Mayor","","Council ",TRUE,"(A)",NA,"9",NA
+"97","Falmouth","TM","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"98","FITCHBURG ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"99","Florida","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"100","Foxborough","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"101","FRAMINGHAM","Mayor","","Council ",TRUE,NA,NA,"11",NA
+"102","FRANKLIN ","TA","","Council ",TRUE,NA,NA,"9","1978"
+"103","Freetown","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"104","GARDNER ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"105","Georgetown","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"106","Gill","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"107","GLOUCESTER ","Mayor","","Council ",TRUE,NA,NA,"9","1975"
+"108","Goshen","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"109","Gosnold","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"110","Grafton ","TA","Select Board ","OTM",FALSE,NA,"5",NA,"1987"
+"111","Granby","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"112","Granville","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"113","Great Barrington","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"114","GREENFIELD ","Mayor","","Council ",TRUE,NA,NA,"13","2003"
+"115","Groton","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"116","Groveland","","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"117","Hadley","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"118","Halifax","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"119","Hamilton","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"120","Hampden","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"121","Hancock","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"122","Hanover","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"123","Hanson","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"124","Hardwick","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"125","Harvard","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"126","Harwich","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"127","Hatfield","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"128","HAVERHILL ","Mayor","","Council ",TRUE,"(A)",NA,"9",NA
+"129","Hawley","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"130","Heath","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"131","Hingham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"132","Hinsdale","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"133","Holbrook","TA","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"134","Holden","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"135","Holland","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"136","Holliston","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"137","HOLYOKE ","Mayor","","Council ",TRUE,"(A)",NA,"13",NA
+"138","Hopedale","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"139","Hopkinton","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"140","Hubbardston","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"141","Hudson ","ExA","Selectmen ","OTM",FALSE,NA,"5",NA,"1971"
+"142","Hull","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"143","Huntington","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"144","Ipswich","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"145","Kingston","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"146","Lakeville","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"147","Lancaster","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"148","Lanesborough","TM","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"149","LAWRENCE ","Mayor","","Council ",TRUE,NA,NA,"9","1983"
+"150","Lee","CAO","Selectmen ","RTM",FALSE,NA,"3",NA,NA
+"151","Leicester","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"152","Lenox","CAO","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"153","LEOMINSTER  ","Mayor","","Council ",TRUE,"(A)",NA,"9","1969"
+"154","Leverett","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"155","Lexington","TM","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"156","Leyden","MuA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"157","Lincoln","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"158","Littleton","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"159","Longmeadow ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"2004"
+"160","LOWELL ","Mayor-Manager","","Council ",TRUE,"(E)",NA,"9",NA
+"161","Ludlow","TA","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"162","Lunenburg","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"163","LYNN ","Mayor","","Council ",TRUE,"(A)",NA,"11",NA
+"164","Lynnfield ","TA","Selectmen ","OTM",FALSE,NA,"3",NA,"1971"
+"165","MALDEN ","Mayor","","Council ",TRUE,"(A)",NA,"11",NA
+"166","Manchester-by-the-Sea","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"167","Mansfield ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1920"
+"168","Marblehead","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"169","Marion","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"170","MARLBOROUGH ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"171","Marshfield ","TA","Selectmen ","OTM",FALSE,NA,"3",NA,"1976"
+"172","Mashpee","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"173","Mattapoisett","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"174","Maynard","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"175","Medfield ","TA","Selectmen ","OTM",FALSE,NA,"3",NA,"1972"
+"176","MEDFORD ","Mayor","","Council ",TRUE,"(A)",NA,"7",NA
+"177","Medway","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"178","MELROSE ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"179","Mendon","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"180","Merrimac","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"181","METHUEN ","Mayor","","Council ",TRUE,NA,NA,"9","1972"
+"182","Middleborough","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"183","Middlefield","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"184","Middleton ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1974"
+"185","Milford","TA","Selectmen ","RTM",FALSE,NA,"3",NA,NA
+"186","Millbury","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"187","Millis ","TA","Select Board ","OTM",FALSE,NA,"3",NA,"1977"
+"188","Millville","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"189","Milton ","TA","Select Board ","RTM",FALSE,NA,"5",NA,"1927"
+"190","Monroe","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"191","Monson","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"192","Montague","TA","Select Board ","RTM",FALSE,NA,"3",NA,NA
+"193","Monterey","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"194","Montgomery","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"195","Mount Washington","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"196","Nahant ","TA","Selectmen ","OTM",FALSE,NA,"3",NA,"1980"
+"197","Nantucket","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"198","Natick ","TA","Select Board ","RTM",FALSE,NA,"5",NA,"1980"
+"199","Needham","TM","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"200","New Ashford","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"201","NEW BEDFORD ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"202","New Braintree","ES","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"203","Newbury","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"204","NEWBURYPORT  ","Mayor","","Council ",TRUE,"(B)",NA,"11","1919"
+"205","New Marlborough","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"206","New Salem","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"207","NEWTON  ","Mayor","","Council ",TRUE,"(A)",NA,"24","1972"
+"208","Norfolk","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"209","NORTH ADAMS ","Mayor","","Council ",TRUE,"(A)",NA,"9",NA
+"210","NORTHAMPTON ","Mayor","","Council ",TRUE,"(B)",NA,"9",NA
+"211","North Andover ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1986"
+"212","NORTH ATTLEBOROUGH","TM","","Council ",TRUE,NA,NA,"9",NA
+"213","Northborough ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1970"
+"214","Northbridge","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"215","North Brookfield","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"216","Northfield","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"217","North Reading ","TA","Select Board ","OTM",FALSE,NA,"5",NA,"1970"
+"218","Norton ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1989"
+"219","Norwell ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1973"
+"220","Norwood","GM","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"221","Oak Bluffs","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"222","Oakham","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"223","Orange","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"224","Orleans ","TA","Select Board ","OTM",FALSE,NA,"5",NA,"1987"
+"225","Otis","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"226","Oxford ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1972"
+"227","PALMER ","TM","","Council ",TRUE,NA,NA,"7","2004"
+"228","Paxton","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"229","PEABODY ","Mayor","","Council ",TRUE,"(D)",NA,"11",NA
+"230","Pelham","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"231","Pembroke","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"232","Pepperell","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"233","Peru","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"234","Petersham","AC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"235","Phillipston","CAO","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"236","PITTSFIELD ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"237","Plainfield","AC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"238","Plainville","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"239","Plymouth ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1973"
+"240","Plympton","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"241","Princeton","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"242","Provincetown ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1990"
+"243","QUINCY ","Mayor","","Council ",TRUE,"(A)",NA,"9",NA
+"244","RANDOLPH","TM","","Council ",TRUE,NA,NA,"9",NA
+"245","Raynham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"246","Reading ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1986"
+"247","Rehoboth","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"248","REVERE ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"249","Richmond","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"250","Rochester","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"251","Rockland ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1970"
+"252","Rockport","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"253","Rowe","ES","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"254","Rowley","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"255","Royalston","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"256","Russell","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"257","Rutland","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"258","SALEM ","Mayor","","Council ",TRUE,"(B)",NA,"11",NA
+"259","Salisbury ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1988"
+"260","Sandisfield","TM","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"261","Sandwich","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"262","Saugus ","TM","Selectmen ","RTM",FALSE,NA,"5",NA,"1947"
+"263","Savoy","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"264","Scituate ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1972"
+"265","Seekonk ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1976"
+"266","Sharon","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"267","Sheffield","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"268","Shelburne","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"269","Sherborn","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"270","Shirley","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"271","Shrewsbury","TM","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"272","Shutesbury","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"273","Somerset","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"274","SOMERVILLE ","Mayor","","Council ",TRUE,"(A)",NA,"11",NA
+"275","Southampton","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"276","Southborough","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"277","SOUTHBRIDGE ","TM","","Council ",TRUE,NA,NA,"9","1974"
+"278","South Hadley","TA","Select Board ","RTM",FALSE,NA,"5",NA,NA
+"279","Southwick","CAO","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"280","Spencer","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"281","SPRINGFIELD ","Mayor","","Council ",TRUE,"(A)",NA,"13",NA
+"282","Sterling","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"283","Stockbridge ","TA","Select Board ","OTM",FALSE,NA,"3",NA,"1937"
+"284","Stoneham","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"285","Stoughton ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1972"
+"286","Stow","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"287","Sturbridge ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1973"
+"288","Sudbury ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1994"
+"289","Sunderland","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"290","Sutton ","TM","Select Board ","OTM",FALSE,NA,"5",NA,"1988"
+"291","Swampscott ","TA","Select Board ","RTM",FALSE,NA,"5",NA,"1969"
+"292","Swansea","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"293","TAUNTON","Mayor","","Council ",TRUE,NA,NA,"9",NA
+"294","Templeton","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"295","Tewksbury","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"296","Tisbury","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"297","Tolland","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"298","Topsfield","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"299","Townsend","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"300","Truro","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"301","Tyngsborough","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"302","Tyringham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"303","Upton","TM","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"304","Uxbridge","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"305","Wakefield","TA","Council *","OTM",FALSE,NA,"7",NA,NA
+"306","Wales","ES","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"307","Walpole ","TA","Selectmen ","RTM",FALSE,NA,"5",NA,"1973"
+"308","WALTHAM ","Mayor","","Council ",TRUE,"(B)",NA,"15",NA
+"309","Ware","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"310","Wareham ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1977"
+"311","Warren","","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"312","Warwick","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"313","Washington","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"314","WATERTOWN ","TM","","Council ",TRUE,NA,NA,"9","1980"
+"315","Wayland","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"316","Webster ","TA","Selectmen ","OTM",FALSE,NA,"5",NA,"1987"
+"317","Wellesley","ED","Selectmen ","RTM",FALSE,NA,"5",NA,NA
+"318","Wellfleet ","TA","Select Board ","OTM",FALSE,NA,"5",NA,"1986"
+"319","Wendell","TC","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"320","Wenham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"321","Westborough ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1974"
+"322","West Boylston","TA","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"323","West Bridgewater","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"324","West Brookfield","ES","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"325","WESTFIELD ","Mayor","","Council ",TRUE,"(B)",NA,"13",NA
+"326","Westford","TM","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"327","Westhampton","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"328","Westminster","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"329","West Newbury","TM","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"330","Weston","TM","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"331","Westport","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"332","WEST SPRINGFIELD (2000",") (A) Mayor","","Council ",TRUE,NA,NA,"9",NA
+"333","West Stockbridge","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"334","West Tisbury","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"335","Westwood ","TA","Select Board ","OTM",FALSE,NA,"3",NA,"1970"
+"336","WEYMOUTH ","Mayor","","Council ",TRUE,NA,NA,"11","1999"
+"337","Whately","TA","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"338","Whitman","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"339","Wilbraham","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"340","Williamsburg","TA","Selectmen ","OTM",FALSE,NA,"3",NA,NA
+"341","Williamstown","TM","Select Board ","OTM",FALSE,NA,"5",NA,NA
+"342","Wilmington ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1950"
+"343","Winchendon ","TM","Selectmen ","OTM",FALSE,NA,"5",NA,"1981"
+"344","Winchester ","TM","Select Board ","RTM",FALSE,NA,"5",NA,"1975"
+"345","Windsor","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"346","WINTHROP ","TM","","Council ",TRUE,NA,NA,"9","2005"
+"347","WOBURN","Mayor","","Council ",TRUE,NA,NA,"9",NA
+"348","WORCESTER","Mayor-Manager","","Council ",TRUE,NA,NA,"11",NA
+"349","Worthington","","Select Board ","OTM",FALSE,NA,"3",NA,NA
+"350","Wrentham","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
+"351","Yarmouth","TA","Selectmen ","OTM",FALSE,NA,"5",NA,NA
