@@ -14,3 +14,8 @@ R: tidyverse, psych, factoExtra, pls, tidy census
 
 # Results
 Our analysis found that K=3 on scaled data had the least amount of overlap and when we looked back at the data we found that geographic locations were the key variables that were distinct from one another in this analysis.
+
+
+# Researchers 
+- Jason Wierzbowski
+- Isha Akshita Mahajan
