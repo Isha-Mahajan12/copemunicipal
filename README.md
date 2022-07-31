@@ -21,4 +21,3 @@ Our analysis found that K=3 on scaled data had the least amount of overlap and w
 - Jason Wierzbowski
 - Isha Akshita Mahajan
 
-[Posters.pdf](https://github.com/Isha-Mahajan12/copemunicipal/files/9227814/Posters.pdf)
