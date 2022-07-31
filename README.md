@@ -1,4 +1,4 @@
-[Posters.pdf](https://github.com/Isha-Mahajan12/copemunicipal/files/9227794/Posters.pdf)
+
 # Copemunicipal
 
 As part of an independent study with Dr. Meredith Rolfe, a team of two students performed a data analysis on [Survey Data] collected by the Massachusetts Municipal Association and the Northeast Center for Coastal Resilience. The survey targeted regional planners and members of local municipalities and aimed to understand the impacts of climate change on their communities. 
