@@ -1,3 +1,4 @@
+[Posters.pdf](https://github.com/Isha-Mahajan12/copemunicipal/files/9227794/Posters.pdf)
 # Copemunicipal
 
 As part of an independent study with Dr. Meredith Rolfe, a team of two students performed a data analysis on [Survey Data] collected by the Massachusetts Municipal Association and the Northeast Center for Coastal Resilience. The survey targeted regional planners and members of local municipalities and aimed to understand the impacts of climate change on their communities. 
@@ -19,3 +20,5 @@ Our analysis found that K=3 on scaled data had the least amount of overlap and w
 # Researchers 
 - Jason Wierzbowski
 - Isha Akshita Mahajan
+
+[Posters.pdf](https://github.com/Isha-Mahajan12/copemunicipal/files/9227814/Posters.pdf)
