@@ -2,6 +2,7 @@
 title: "Municipal Data"
 author: "Meredith Rolfe, Isha Mahajan, Jason Wierzbowski"
 date: "10/14/2021"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
